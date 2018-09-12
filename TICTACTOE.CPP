@@ -178,7 +178,7 @@ void gamegrid()
 	cout<<"\n    1 2 3\n"<<endl;
 	cout<<"  1 "<<m[1][1]<<"|"<<m[1][2]<<"|"<<m[1][3]<<endl;
 	cout<<"    -|-|-\n";
-	cout<<"  2 "<<m[2][1]<<"|"<<m[2][2]<<"|"<<m[2][3]<<"\t\t\t\tGAME DEVELOPED BY -HARSH VERMA"<<endl;
+	cout<<"  2 "<<m[2][1]<<"|"<<m[2][2]<<"|"<<m[2][3]<<"\t\t\t\tGAME DEVELOPED BY-HARSH VERMA"<<endl;
 	cout<<"    -|-|-\t\t\t\t                     XI-L\n";
 	cout<<"  3 "<<m[3][1]<<"|"<<m[3][2]<<"|"<<m[3][3]<<"\n\n\n";
 }
